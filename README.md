@@ -1,0 +1,1 @@
+This contains five lab code examples from the first-year Introduction to Programming course of the joint undergraduate program between the University of Electronic Science and Technology of China and the University of Glasgow. It includes individual drafts and the final submitted version. Each problem is listed in its corresponding folder.
